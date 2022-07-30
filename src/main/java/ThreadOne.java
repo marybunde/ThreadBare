@@ -1,4 +1,4 @@
-public class ThreadOne implements Runnable {
+public class        ThreadOne implements Runnable {
     String name;
     Thread t;
     Boolean flag;
